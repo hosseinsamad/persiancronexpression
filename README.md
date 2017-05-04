@@ -1,4 +1,4 @@
-# persiancronexpression
+# Persian ( Jalali ) Cron Expression for Java
 I've implemented a PersianCronExpression parser for quartz-1.6.5 which is exactly like "org.quartz.CronExpression" class but it works with jalali fields. I mean you can use the jalali year, month, day, day-of-week and day-of-month fields(I've attached the source files to this post).
 
 For example these are the samples of cron expression in jalali:
